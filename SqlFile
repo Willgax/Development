@@ -1,0 +1,1 @@
+SELECT *   FROM [AirTicketQC_TST].[booking].[Itinerary];
